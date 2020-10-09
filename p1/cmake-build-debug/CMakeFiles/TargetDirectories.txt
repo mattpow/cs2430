@@ -1,3 +1,0 @@
-/Users/Matt/Development/school/cs2430/p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/Matt/Development/school/cs2430/p1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/Matt/Development/school/cs2430/p1/cmake-build-debug/CMakeFiles/p1.dir
